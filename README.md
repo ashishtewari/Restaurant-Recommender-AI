@@ -1,0 +1,1 @@
+Given a dataset containing information about restaurants (restaurant name, rating, cuisine, city, price, etc.), Create a chatbot that helps users find the perfect restaurant for any occasion. It can consider factors like cuisine preferences, dietary restrictions, location, and user reviews to make tailored recommendations.
